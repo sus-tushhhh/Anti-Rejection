@@ -41,7 +41,15 @@ It creates a lighthearted "impossible choice" experience.
 
 ## 🚀 Installation
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/runaway-button.git
-    ```
+## 1️⃣ Clone the repository:
+
+```bash
+git clone https://github.com/sus-tushhhh/Anti-Rejection.git
+```
+
+---
+
+## 👨‍💻 Developer
+
+**Tushant**  
+🔗 GitHub: https://github.com/sus-tushhhh
