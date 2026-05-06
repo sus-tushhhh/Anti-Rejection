@@ -18,7 +18,7 @@ It creates a lighthearted "impossible choice" experience.
 
 👉 **Try it here:**
 
-[Anti Rejection Preview](https://your-preview-link.com)
+[Anti Rejection Preview](https://sus-tushhhh.github.io/personal/proposal/main.html)
 
 ---
 
